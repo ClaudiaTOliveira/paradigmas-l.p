@@ -1,0 +1,42 @@
+!DOCTYPE HTML>
+<html>
+<meta charset="utf-8">
+<head>
+<title>titulo da pagina</title>
+</head>
+<body bgcolor=“blue”>
+<h1>cabeçalho</h1>
+<hr>
+<hr color=“ff000” align=“left” size=“4” width=“60%”>
+<p>paragrafo.</p>
+<h2>Texto  </h2>
+<font face=“Arial” color=“ff000” size=“10”>
+<b>Negrito</b>
+<br>
+<h3>br=espaço<h3>
+<br>
+<u>Sublinhado </u>
+<br>
+<i>Italico </i>
+<br>
+<sub>Subscrito </sub>
+<br>
+<sup>Sobrescrito </sup>
+<marquee>Andamento</marquee>
+<marqueebehavior=“alternate”>Alternado </marquee>
+<marqueedirection=“right”>Direcionado </marquee>
+  <ul>Lista Não Ordenada
+    <li> Item um
+    <li> Item dois
+    <li> Item três
+</ul>
+<oltype=“a” start=“1”>lista ordenada
+  <li> primeiro item
+  <li> segundo item
+  <li> terceiro item
+  </ol>
+  </body>
+  </html>
+</ol>
+</body>>
+</html>
